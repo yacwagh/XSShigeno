@@ -1,9 +1,5 @@
 # XSShigeno: Automated XSS Fuzzer
 
-Developed by: yaceno  
-
-Website: https://yaceno.github.io/
-
 ## Introduction
 
 Detect cross-site scripting vulnerabilities (XSS) with ease using this python tool.
